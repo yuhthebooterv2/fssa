@@ -3,7 +3,7 @@ FO Shelter Save Editor
 
 You can use this website to modify your game saves for fallout shelter
 
-Live Site - https://yuhthebooterv2.github.io/fssa/
+Live Site - https://yuhthebooterv2.github.io/fsse/
 
 ## Credits
 Original Developer - [MobileSam](https://github.com/MobileSam/)
