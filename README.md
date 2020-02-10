@@ -1,5 +1,5 @@
 ## Info
-Fallout Shelter Save Editor (FSSA)
+Fallout Shelter Save Editor (FSSE)
 
 Using the decryptor from http://fossd.bitballoon.com/
 
