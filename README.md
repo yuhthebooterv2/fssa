@@ -6,7 +6,7 @@ You can use this website to modify your game saves for fallout shelter
 Live Site - https://yuhthebooterv2.github.io/fsse/
 
 ## Credits
-Original Developer - [MobileSam](https://github.com/MobileSam/)
+Original Developer: [MobileSam](https://github.com/MobileSam/)
 
 Save Decryptor / Encryptor: [Xeth137](https://www.reddit.com/user/Xeth137)
 
